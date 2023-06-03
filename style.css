@@ -22,7 +22,7 @@ button{
      border: 1px solid blue;
      background-color: #900000;
      text-align: center;
-     padding: 10px 5px 5px 5px;
+     padding: 10px;
     
     
 }
@@ -63,7 +63,7 @@ button{
      border: 1px solid black;
      text-align: justify;
      padding: 5px 5px 5px 10px;
-     overflow: hidden;    
+     overflow: scroll;    
 }
 .colum >.box2 img{
      width: 350px;
@@ -76,6 +76,6 @@ button{
      height: 20px;
      background-color:#900000;
      text-align: center;
-     padding: 10px 0px;
+     padding: 20px;
      color: white;
 }
